@@ -2,19 +2,18 @@
 
 ## Développeur Frontend | UX/UI Designer | Créateur d'expériences web responsive
 
-Avec une passion motivante pour le design et le développement web, je m'efforce de construire des interfaces utilisateur intuitives et des expériences utilisateurs (UX) remarquables, tout en gardant une forte attention sur le Responsive Web Design. Mon objectif est de créer des sites web et applications qui non seulement semblent incroyables sur tous les appareils mais sont aussi accessibles et faciles à utiliser.
+Avec une passion motivante pour le design et le développement web, je m'efforce de construire des interfaces utilisateur intuitives et des expériences utilisateurs (UX) fortes, tout en gardant une attention sur le Responsive Web Design. Mon objectif est de créer des sites web et applications accessibles et faciles à utiliser.
 
 ### 💻 Technologies et Outils
 
 - **Vanilla JS** : Pour une interaction fluide et une performance optimale.
 - **Hugo** : Utilisé pour des sites statiques rapides, sécurisés et faciles à maintenir.
 - **ReactJS** : Pour développer des interfaces utilisateur dynamiques et modernes.
-- **Astro** : Pour créer des sites web qui chargent vite, en intégrant le meilleur du JavaScript moderne sans compromettre l'expérience utilisateur.
 - **CI/CD** : Expérience approfondie avec l'intégration et le déploiement continus, assurant un flux de travail efficace et des mises à jour fluides.
 
 ### 🎨 Design
 
-En tant que designer UX/UI, je crois fermement à l'importance d'une esthétique visuelle engageante couplée à une expérience utilisateur sans friction. J'utilise les principes du design pour guider chaque projet du concept à la réalisation, en veillant à ce que chaque pixel serve un objectif.
+En tant que designer UX/UI, j'utilise les principes du design pour guider chaque projet du concept à la réalisation, en veillant à ce que chaque pixel serve un objectif.
 
 ### 🚀 Collaborons
 
