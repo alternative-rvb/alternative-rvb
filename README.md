@@ -1,4 +1,4 @@
-# 👋 Salut, je suis @alternative-rvb
+# 👋 Salut, je suis Niolas Malet
 
 ## Développeur Frontend | UX/UI Designer | Créateur d'expériences web responsive
 
