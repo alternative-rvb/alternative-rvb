@@ -25,4 +25,16 @@ N'hésitez pas à me contacter pour tout projet, collaboration ou simplement pou
 
 ---
 
-@alternative-rvb - Pour des expériences web qui se démarquent.
+## <div align="center">📈 GitHub Profile Stats:</div>
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=alternative-rvb&theme=midnight-purple&hide_border=false" alt="alternative-rvb's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="alternative-rvb's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alternative-rvb&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    </td>
+  </tr>
+</table>
+
