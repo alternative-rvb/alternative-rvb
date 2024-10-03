@@ -1,6 +1,17 @@
 # <div align="center">👋 je suis Niolas Malet Développeur Full-Stack | UX/UI Designer
 
-<table align="center" style="padding: 10px;">
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-AlternativeRVB.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.alternative-rvb.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicolas%20Malet-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-malet/)
+
+Avec une passion motivante, je cours partout : design, développement frontend, et même backend où je grimpe la pente avec acharnement !
+
+</div>
+
+## 💻 Skillz
+
+<table style="padding: 10px;">
   <tr>
     <td align="center" style="padding: 10px;">
       <strong>Design Tools</strong><br>
@@ -42,11 +53,6 @@
 </table>
 
 
-
-Avec une passion motivante pour le design et le développement web, je m'efforce de construire des interfaces utilisateur intuitives et des expériences utilisateurs (UX) fortes, tout en gardant une attention sur le Responsive Web Design. Mon objectif est de créer des sites web et applications accessibles et faciles à utiliser.
-
-### 💻 Technologies et Outils
-
 - **Vanilla JS** : Pour une interaction fluide et une performance optimale.
 - **Hugo** : Utilisé pour des sites statiques rapides, sécurisés et faciles à maintenir.
 - **ReactJS** : Pour développer des interfaces utilisateur dynamiques et modernes.
@@ -54,19 +60,15 @@ Avec une passion motivante pour le design et le développement web, je m'efforce
 
 ### 🎨 Design
 
-En tant que designer UX/UI, j'utilise les principes du design pour guider chaque projet du concept à la réalisation, en veillant à ce que chaque pixel serve un objectif.
+En tant que designer UX/UI, j'utilise les principes du design pour guider chaque projet du concept à la réalisation, en veillant à ce que chaque pixel soit à la bonne place.
 
 ### 🚀 Collaborons
 
-Je suis toujours à la recherche de nouvelles aventures créatives. Que vous ayez besoin de donner vie à une idée, d'une refonte de site web, ou de conseils sur le meilleur moyen d'implémenter une fonctionnalité, je suis là pour aider. Discutons de la façon dont nous pouvons créer ensemble quelque chose d'unique et mémorable.
+Curieux et polyvalent, je suis toujours à la recherche de nouvelles aventures créatives et défis algorithmiques.
 
-### 📫 Contactez-Moi
+## 📈 GitHub Profile Stats:</div>
 
-N'hésitez pas à me contacter pour tout projet, collaboration ou simplement pour dire bonjour. Ensemble, transformons vos idées en réalités digitales captivantes.
-
-## <div align="center">📈 GitHub Profile Stats:</div>
-
-<table align="center">
+<table>
   <tr>
     <td align="center">
       <img width="400px" src="https://github-readme-stats-kohl-seven-80.vercel.app/api?username=alternative-rvb&count_private=true&show_icons=true&theme=blueberry&hide_border=false" alt="Statistiques GitHub de alternative-rvb" />
@@ -81,6 +83,18 @@ N'hésitez pas à me contacter pour tout projet, collaboration ou simplement pou
     </td>
   </tr>
 </table>
+
+---
+
+<div align="center">
+
+![Dernier commit GitHub](https://img.shields.io/github/last-commit/alternative-rvb/alternative-rvb?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/alternative-rvb?style=for-the-badge&logo=github)
+![GitHub followers](https://img.shields.io/github/followers/alternative-rvb?style=for-the-badge&logo=github)
+![Status](https://img.shields.io/badge/Status-Actif-brightgreen?style=for-the-badge)
+![Visiteurs](https://komarev.com/ghpvc/?username=alternative-rvb&style=for-the-badge&color=blue)
+
+</div>
 
 
 
