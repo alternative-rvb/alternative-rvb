@@ -1,6 +1,6 @@
-# 👋 je suis Niolas Malet Développeur Full-Stack | UX/UI Designer
+# <div align="center">👋 je suis Niolas Malet Développeur Full-Stack | UX/UI Designer
 
-<table style="padding: 10px;">
+<table align="center" style="padding: 10px;">
   <tr>
     <td align="center" style="padding: 10px;">
       <strong>Design Tools</strong><br>
@@ -66,17 +66,22 @@ N'hésitez pas à me contacter pour tout projet, collaboration ou simplement pou
 
 ## <div align="center">📈 GitHub Profile Stats:</div>
 
-## <div align="center">📈 GitHub Profile Stats:</div>
-
 <table align="center">
   <tr>
-    <td>
-      <img align="left" src="https://github-readme-stats-kohl-seven-80.vercel.app/api?username=alternative-rvb&theme=blueberry&hide_border=false&show_icons=true&count_private=true" alt="alternative-rvb's Github stats" />
+    <td align="center">
+      <img width="400px" src="https://github-readme-stats-kohl-seven-80.vercel.app/api?username=alternative-rvb&count_private=true&show_icons=true&theme=blueberry&hide_border=false" alt="Statistiques GitHub de alternative-rvb" />
     </td>
-    <td>
-      <img height="195px" align="right" alt="alternative-rvb's Github Languages" src="https://github-readme-stats-kohl-seven-80.vercel.app/api/top-langs/?username=alternative-rvb&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+    <td align="center">
+      <img width="340px" src="https://github-readme-stats-kohl-seven-80.vercel.app/api/top-langs/?username=alternative-rvb&count_private=true&layout=compact&theme=blueberry&hide_border=false&langs_count=8" alt="Langages les plus utilisés par alternative-rvb" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img width="745px" src="https://github-readme-streak-stats.herokuapp.com/?user=alternative-rvb&theme=blueberry&hide_border=false" alt="Streak Stats de alternative-rvb" />
     </td>
   </tr>
 </table>
+
+
 
 
