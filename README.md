@@ -68,7 +68,7 @@ Curieux et polyvalent, je suis toujours à la recherche de nouvelles aventures c
 
 ## 📈 GitHub Profile Stats:</div>
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <img width="400px" src="https://github-readme-stats-kohl-seven-80.vercel.app/api?username=alternative-rvb&count_private=true&show_icons=true&theme=blueberry&hide_border=false" alt="Statistiques GitHub de alternative-rvb" />
