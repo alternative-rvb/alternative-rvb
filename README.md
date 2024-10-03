@@ -33,11 +33,6 @@
       <img src="https://skillicons.dev/icons?i=vercel" width="24" height="24" alt="Vercel" title="Vercel" />
     </td>
     <td align="center" style="padding: 10px;">
-      <strong>No-Code Tools</strong><br>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" width="24" height="24" alt="WordPress" title="WordPress" />&nbsp;
-      <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/framer.svg" width="24" height="24" alt="Framer" title="Framer" />
-    </td>
-    <td align="center" style="padding: 10px;">
       <strong>Other Tools</strong><br>
       <img src="https://skillicons.dev/icons?i=vscode" width="24" height="24" alt="Visual Studio Code" title="Visual Studio Code" />&nbsp;
       <img src="https://skillicons.dev/icons?i=bash" width="24" height="24" alt="Bash" title="Bash" />&nbsp;
@@ -69,18 +64,17 @@ Je suis toujours à la recherche de nouvelles aventures créatives. Que vous aye
 
 N'hésitez pas à me contacter pour tout projet, collaboration ou simplement pour dire bonjour. Ensemble, transformons vos idées en réalités digitales captivantes.
 
----
-
 ## <div align="center">📈 GitHub Profile Stats:</div>
 
-<table>
+<table align="center">
   <tr>
     <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=alternative-rvb&theme=midnight-purple&hide_border=false" alt="alternative-rvb's Github stats" />
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=alternative-rvb&theme=blueberry&hide_border=false" alt="alternative-rvb's Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="alternative-rvb's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alternative-rvb&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+      <img height="195px" align="right" alt="alternative-rvb's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alternative-rvb&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
     </td>
   </tr>
 </table>
+
 
