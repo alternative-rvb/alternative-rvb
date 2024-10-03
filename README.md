@@ -1,45 +1,51 @@
-# 👋 Salut, je suis Niolas Malet
+# 👋 je suis Niolas Malet Développeur Full-Stack | UX/UI Designer
 
-## Développeur Frontend | UX/UI Designer | Créateur d'expériences web responsive
+<table style="padding: 10px;">
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <strong>Design Tools</strong><br>
+      <img src="https://skillicons.dev/icons?i=ai" width="24" height="24" alt="Illustrator" title="Adobe Illustrator" />&nbsp;
+      <img src="https://skillicons.dev/icons?i=ps" width="24" height="24" alt="Photoshop" title="Adobe Photoshop" />&nbsp;
+      <img src="https://skillicons.dev/icons?i=xd" width="24" height="24" alt="Adobe XD" title="Adobe XD" />&nbsp;
+      <img src="https://skillicons.dev/icons?i=ae" width="24" height="24" alt="After Effects" title="Adobe After Effects" />&nbsp;
+      <img src="https://skillicons.dev/icons?i=figma" width="24" height="24" alt="Figma" title="Figma" />
+    </td>
+    <td align="center" style="padding: 10px;">
+      <strong>Frontend Development</strong><br>
+      <img src="https://skillicons.dev/icons?i=html" width="24" height="24" alt="HTML5" title="HTML5" />&nbsp;
+      <img src="https://skillicons.dev/icons?i=css" width="24" height="24" alt="CSS3" title="CSS3" />&nbsp;
+      <img src="https://skillicons.dev/icons?i=js" width="24" height="24" alt="JavaScript" title="JavaScript" />&nbsp;
+      <img src="https://skillicons.dev/icons?i=react" width="24" height="24" alt="React" title="React" />&nbsp;
+      <img src="https://skillicons.dev/icons?i=tailwind" width="24" height="24" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/hugo/hugo-plain.svg" width="24" height="24" alt="Hugo" title="Hugo" />
+    </td>
+    <td align="center" style="padding: 10px;">
+      <strong>Backend Development</strong><br>
+      <img src="https://skillicons.dev/icons?i=nodejs" width="24" height="24" alt="Node.js" title="Node.js" />&nbsp;
+      <img src="https://skillicons.dev/icons?i=php" width="24" height="24" alt="PHP" title="PHP" />&nbsp;
+      <img src="https://skillicons.dev/icons?i=mysql" width="24" height="24" alt="MySQL" title="MySQL" />&nbsp;
+      <img src="https://skillicons.dev/icons?i=mongodb" width="24" height="24" alt="MongoDB" title="MongoDB" />
+    </td>
+    <td align="center" style="padding: 10px;">
+      <strong>DevOps Tools</strong><br>
+      <img src="https://skillicons.dev/icons?i=git" width="24" height="24" alt="Git" title="Git" />&nbsp;
+      <img src="https://skillicons.dev/icons?i=netlify" width="24" height="24" alt="Netlify" title="Netlify" />&nbsp;
+      <img src="https://skillicons.dev/icons?i=vercel" width="24" height="24" alt="Vercel" title="Vercel" />
+    </td>
+    <td align="center" style="padding: 10px;">
+      <strong>No-Code Tools</strong><br>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" width="24" height="24" alt="WordPress" title="WordPress" />&nbsp;
+      <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/framer.svg" width="24" height="24" alt="Framer" title="Framer" />
+    </td>
+    <td align="center" style="padding: 10px;">
+      <strong>Other Tools</strong><br>
+      <img src="https://skillicons.dev/icons?i=vscode" width="24" height="24" alt="Visual Studio Code" title="Visual Studio Code" />&nbsp;
+      <img src="https://skillicons.dev/icons?i=bash" width="24" height="24" alt="Bash" title="Bash" />&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="24" height="24" alt="NeoVim" title="NeoVim" />
+    </td>
+  </tr>
+</table>
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap; padding: 10px; width: 100%;">
-  <div style="flex:1; text-align: center; padding: 10px;">
-    <strong>Design Tools</strong><br>
-    <img src="https://skillicons.dev/icons?i=ai" width="24" height="24" alt="Illustrator" />&nbsp;
-    <img src="https://skillicons.dev/icons?i=ps" width="24" height="24" alt="Photoshop" />&nbsp;
-    <img src="https://skillicons.dev/icons?i=xd" width="24" height="24" alt="Adobe XD" />&nbsp;
-    <img src="https://skillicons.dev/icons?i=figma" width="24" height="24" alt="Figma" />
-  </div>
-
-  <div style="flex:1; text-align: center; padding: 10px;">
-    <strong>Frontend Development</strong><br>
-    <img src="https://skillicons.dev/icons?i=html" width="24" height="24" alt="HTML5" />&nbsp;
-    <img src="https://skillicons.dev/icons?i=css" width="24" height="24" alt="CSS3" />&nbsp;
-    <img src="https://skillicons.dev/icons?i=js" width="24" height="24" alt="JavaScript" />&nbsp;
-    <img src="https://skillicons.dev/icons?i=react" width="24" height="24" alt="React" />
-  </div>
-
-  <div style="flex:1; text-align: center; padding: 10px;">
-    <strong>Backend Development</strong><br>
-    <img src="https://skillicons.dev/icons?i=nodejs" width="24" height="24" alt="Node.js" />&nbsp;
-    <img src="https://skillicons.dev/icons?i=php" width="24" height="24" alt="PHP" />&nbsp;
-    <img src="https://skillicons.dev/icons?i=mysql" width="24" height="24" alt="MySQL" />
-  </div>
-
-  <div style="flex:1; text-align: center; padding: 10px;">
-    <strong>DevOps Tools</strong><br>
-    <img src="https://skillicons.dev/icons?i=git" width="24" height="24" alt="Git" />&nbsp;
-    <img src="https://skillicons.dev/icons?i=netlify" width="24" height="24" alt="Netlify" />&nbsp;
-    <img src="https://skillicons.dev/icons?i=vercel" width="24" height="24" alt="Vercel" />
-  </div>
-
-  <div style="flex:1; text-align: center; padding: 10px;">
-    <strong>Other Tools</strong><br>
-    <img src="https://skillicons.dev/icons?i=vscode" width="24" height="24" alt="Visual Studio Code" />&nbsp;
-    <img src="https://skillicons.dev/icons?i=bash" width="24" height="24" alt="Bash" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="24" height="24" alt="NeoVim" />
-  </div>
-</div>
 
 
 Avec une passion motivante pour le design et le développement web, je m'efforce de construire des interfaces utilisateur intuitives et des expériences utilisateurs (UX) fortes, tout en gardant une attention sur le Responsive Web Design. Mon objectif est de créer des sites web et applications accessibles et faciles à utiliser.
