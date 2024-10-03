@@ -66,13 +66,15 @@ N'hésitez pas à me contacter pour tout projet, collaboration ou simplement pou
 
 ## <div align="center">📈 GitHub Profile Stats:</div>
 
+## <div align="center">📈 GitHub Profile Stats:</div>
+
 <table align="center">
   <tr>
     <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=alternative-rvb&theme=blueberry&hide_border=false" alt="alternative-rvb's Github stats" />
+      <img align="left" src="https://github-readme-stats-kohl-seven-80.vercel.app/api?username=alternative-rvb&theme=blueberry&hide_border=false&show_icons=true&count_private=true" alt="alternative-rvb's Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="alternative-rvb's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alternative-rvb&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+      <img height="195px" align="right" alt="alternative-rvb's Github Languages" src="https://github-readme-stats-kohl-seven-80.vercel.app/api/top-langs/?username=alternative-rvb&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
     </td>
   </tr>
 </table>
