@@ -2,6 +2,46 @@
 
 ## Développeur Frontend | UX/UI Designer | Créateur d'expériences web responsive
 
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap; padding: 10px; width: 100%;">
+  <div style="flex:1; text-align: center; padding: 10px;">
+    <strong>Design Tools</strong><br>
+    <img src="https://skillicons.dev/icons?i=ai" width="24" height="24" alt="Illustrator" />&nbsp;
+    <img src="https://skillicons.dev/icons?i=ps" width="24" height="24" alt="Photoshop" />&nbsp;
+    <img src="https://skillicons.dev/icons?i=xd" width="24" height="24" alt="Adobe XD" />&nbsp;
+    <img src="https://skillicons.dev/icons?i=figma" width="24" height="24" alt="Figma" />
+  </div>
+
+  <div style="flex:1; text-align: center; padding: 10px;">
+    <strong>Frontend Development</strong><br>
+    <img src="https://skillicons.dev/icons?i=html" width="24" height="24" alt="HTML5" />&nbsp;
+    <img src="https://skillicons.dev/icons?i=css" width="24" height="24" alt="CSS3" />&nbsp;
+    <img src="https://skillicons.dev/icons?i=js" width="24" height="24" alt="JavaScript" />&nbsp;
+    <img src="https://skillicons.dev/icons?i=react" width="24" height="24" alt="React" />
+  </div>
+
+  <div style="flex:1; text-align: center; padding: 10px;">
+    <strong>Backend Development</strong><br>
+    <img src="https://skillicons.dev/icons?i=nodejs" width="24" height="24" alt="Node.js" />&nbsp;
+    <img src="https://skillicons.dev/icons?i=php" width="24" height="24" alt="PHP" />&nbsp;
+    <img src="https://skillicons.dev/icons?i=mysql" width="24" height="24" alt="MySQL" />
+  </div>
+
+  <div style="flex:1; text-align: center; padding: 10px;">
+    <strong>DevOps Tools</strong><br>
+    <img src="https://skillicons.dev/icons?i=git" width="24" height="24" alt="Git" />&nbsp;
+    <img src="https://skillicons.dev/icons?i=netlify" width="24" height="24" alt="Netlify" />&nbsp;
+    <img src="https://skillicons.dev/icons?i=vercel" width="24" height="24" alt="Vercel" />
+  </div>
+
+  <div style="flex:1; text-align: center; padding: 10px;">
+    <strong>Other Tools</strong><br>
+    <img src="https://skillicons.dev/icons?i=vscode" width="24" height="24" alt="Visual Studio Code" />&nbsp;
+    <img src="https://skillicons.dev/icons?i=bash" width="24" height="24" alt="Bash" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="24" height="24" alt="NeoVim" />
+  </div>
+</div>
+
+
 Avec une passion motivante pour le design et le développement web, je m'efforce de construire des interfaces utilisateur intuitives et des expériences utilisateurs (UX) fortes, tout en gardant une attention sur le Responsive Web Design. Mon objectif est de créer des sites web et applications accessibles et faciles à utiliser.
 
 ### 💻 Technologies et Outils
