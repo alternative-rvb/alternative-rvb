@@ -86,6 +86,10 @@ Curieux et polyvalent, je suis toujours à la recherche de nouvelles aventures c
 
 ---
 
+![dec vt100](https://i.imgur.com/xILk8Nq.png)
+
+---
+
 <div align="center">
 
 ![Dernier commit GitHub](https://img.shields.io/github/last-commit/alternative-rvb/alternative-rvb?style=for-the-badge)
@@ -96,5 +100,4 @@ Curieux et polyvalent, je suis toujours à la recherche de nouvelles aventures c
 
 </div>
 
-![dec vt100](https://i.imgur.com/xILk8Nq.png)
 
