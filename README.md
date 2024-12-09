@@ -9,10 +9,13 @@ Avec une passion motivante, je cours partout : design, développement frontend, 
 
 </div>
 
-## ![Image](https://i.imgur.com/fCGA6kl.png =x50) Skillz
+## Skillz
 
 <table style="padding: 10px;">
   <tr>
+    <td>
+       <img src="https://i.imgur.com/fCGA6kl.png" width="24"  alt="dec vt100" title="Mon setup" />&nbsp;
+    </td>
     <td align="center" style="padding: 10px;">
       <strong>Design Tools</strong><br>
       <img src="https://skillicons.dev/icons?i=ai" width="24" height="24" alt="Illustrator" title="Adobe Illustrator" />&nbsp;
