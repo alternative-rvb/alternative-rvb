@@ -9,7 +9,7 @@ Avec une passion motivante, je cours partout : design, développement frontend, 
 
 </div>
 
-## 💻 Skillz
+## ![Image](https://i.imgur.com/fCGA6kl.png =x50) Skillz
 
 <table style="padding: 10px;">
   <tr>
@@ -95,8 +95,4 @@ Curieux et polyvalent, je suis toujours à la recherche de nouvelles aventures c
 ![Visiteurs](https://komarev.com/ghpvc/?username=alternative-rvb&style=for-the-badge&color=blue)
 
 </div>
-
-Mon setup
-
-![DEC-VT100](https://i.imgur.com/Ldsdt5X.png)
 
