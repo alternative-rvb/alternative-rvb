@@ -96,6 +96,7 @@ Curieux et polyvalent, je suis toujours à la recherche de nouvelles aventures c
 
 </div>
 
+Mon setup
 
-
+![DEC-VT100](https://i.imgur.com/Ldsdt5X.png)
 
