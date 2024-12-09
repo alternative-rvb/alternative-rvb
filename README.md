@@ -14,7 +14,7 @@ Avec une passion motivante, je cours partout : design, développement frontend, 
 <table style="padding: 10px;">
   <tr>
     <td>
-       <img src="https://i.imgur.com/fCGA6kl.png" width="24"  alt="dec vt100" title="Mon setup" />&nbsp;
+       <img src="https://i.imgur.com/xILk8Nq.png" width="48"  alt="dec vt100" title="Mon setup" />&nbsp;
     </td>
     <td align="center" style="padding: 10px;">
       <strong>Design Tools</strong><br>
