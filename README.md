@@ -13,9 +13,6 @@ Avec une passion motivante, je cours partout : design, développement frontend, 
 
 <table style="padding: 10px;">
   <tr>
-    <td>
-       <img src="https://i.imgur.com/xILk8Nq.png" width="48"  alt="dec vt100" title="Mon setup" />&nbsp;
-    </td>
     <td align="center" style="padding: 10px;">
       <strong>Design Tools</strong><br>
       <img src="https://skillicons.dev/icons?i=ai" width="24" height="24" alt="Illustrator" title="Adobe Illustrator" />&nbsp;
@@ -98,4 +95,6 @@ Curieux et polyvalent, je suis toujours à la recherche de nouvelles aventures c
 ![Visiteurs](https://komarev.com/ghpvc/?username=alternative-rvb&style=for-the-badge&color=blue)
 
 </div>
+
+![dec vt100](https://i.imgur.com/xILk8Nq.png)
 
