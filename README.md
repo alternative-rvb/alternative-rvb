@@ -1,5 +1,7 @@
 # <div align="center">👋 Je suis Nicolas Malet Développeur Full-Stack | UX/UI Designer
 
+[EN](EN.md)
+
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-AlternativeRVB.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.alternative-rvb.com/)
