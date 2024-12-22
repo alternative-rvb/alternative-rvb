@@ -1,6 +1,6 @@
 # <div align="center">👋 Je suis Nicolas Malet Développeur Full-Stack | UX/UI Designer
 
-[EN](EN.md)
+<!-- [EN](EN.md) -->
 
 <div align="center">
 
