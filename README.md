@@ -68,24 +68,6 @@ En tant que designer UX/UI, j'utilise les principes du design pour guider chaque
 
 Curieux et polyvalent, je suis toujours à la recherche de nouvelles aventures créatives et défis algorithmiques.
 
-## 📈 GitHub Profile Stats:</div>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img width="400px" src="https://github-readme-stats-kohl-seven-80.vercel.app/api?username=alternative-rvb&count_private=true&show_icons=true&theme=blueberry&hide_border=false" alt="Statistiques GitHub de alternative-rvb" />
-    </td>
-    <td align="center">
-      <img width="340px" src="https://github-readme-stats-kohl-seven-80.vercel.app/api/top-langs/?username=alternative-rvb&count_private=true&layout=compact&theme=blueberry&hide_border=false&langs_count=8" alt="Langages les plus utilisés par alternative-rvb" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img width="745px" src="https://github-readme-streak-stats.herokuapp.com/?user=alternative-rvb&theme=blueberry&hide_border=false" alt="Streak Stats de alternative-rvb" />
-    </td>
-  </tr>
-</table>
-
 ---
 
 ![dec vt100](https://i.imgur.com/xILk8Nq.png)
