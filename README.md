@@ -1,4 +1,4 @@
-# <div align="center">👋 Je suis Nicolas Malet Développeur | UX/UI Designer
+# <div align="center">👋 Je suis Nicolas Malet Développeur polyvalent
 
 <!-- [EN](EN.md) -->
 
