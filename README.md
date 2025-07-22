@@ -70,7 +70,10 @@ Curieux et polyvalent, je suis toujours à la recherche de nouvelles aventures c
 
 ---
 
-![dec vt100](https://i.imgur.com/xILk8Nq.png)
+<p align="center">
+  <img src="https://i.imgur.com/xILk8Nq.png" alt="dec vt100" height="200" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2V4bmI5cWVsM2szb2IzOWkyamQwcmhycXFrMzl6czZ1dmRvbnFkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BGIqWh2R1fi6JDa/giphy.gif" alt="homer computing" height="200" />
+</p>
 
 ---
 
