@@ -17,7 +17,7 @@ Avec une passion motivante, je cours partout : design, développement frontend, 
   <tr>
     <td align="center" style="padding: 10px;">
       <strong>Design Tools</strong><br>
-      <img src="https://skillicons.dev/icons?i=ai" width="24" height="24" alt="Illustrator" title="Adobe Illustrator" />&nbsp;
+      <img src="https://skillicons.dev/icons?i=ai" width="24" height="24" alt="Illustrator" title="Adobe Illustrator" />
       <img src="https://skillicons.dev/icons?i=ps" width="24" height="24" alt="Photoshop" title="Adobe Photoshop" />&nbsp;
       <img src="https://skillicons.dev/icons?i=xd" width="24" height="24" alt="Adobe XD" title="Adobe XD" />&nbsp;
       <img src="https://skillicons.dev/icons?i=ae" width="24" height="24" alt="After Effects" title="Adobe After Effects" />&nbsp;
