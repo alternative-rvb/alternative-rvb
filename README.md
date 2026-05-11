@@ -13,47 +13,34 @@ Avec une passion motivante, je cours partout : design, développement frontend, 
 
 ## Skillz
 
-<table style="padding: 10px;">
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <strong>Design Tools</strong><br>
-      <img src="https://skillicons.dev/icons?i=ai" width="24" height="24" alt="Illustrator" title="Adobe Illustrator" />
-      <img src="https://skillicons.dev/icons?i=ps" width="24" height="24" alt="Photoshop" title="Adobe Photoshop" />&nbsp;
-      <img src="https://skillicons.dev/icons?i=xd" width="24" height="24" alt="Adobe XD" title="Adobe XD" />&nbsp;
-      <img src="https://skillicons.dev/icons?i=ae" width="24" height="24" alt="After Effects" title="Adobe After Effects" />&nbsp;
-      <img src="https://skillicons.dev/icons?i=figma" width="24" height="24" alt="Figma" title="Figma" />
-    </td>
-    <td align="center" style="padding: 10px;">
-      <strong>Frontend Development</strong><br>
-      <img src="https://skillicons.dev/icons?i=html" width="24" height="24" alt="HTML5" title="HTML5" />&nbsp;
-      <img src="https://skillicons.dev/icons?i=css" width="24" height="24" alt="CSS3" title="CSS3" />&nbsp;
-      <img src="https://skillicons.dev/icons?i=js" width="24" height="24" alt="JavaScript" title="JavaScript" />&nbsp;
-      <img src="https://skillicons.dev/icons?i=react" width="24" height="24" alt="React" title="React" />&nbsp;
-      <img src="https://skillicons.dev/icons?i=tailwind" width="24" height="24" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/hugo/hugo-plain.svg" width="24" height="24" alt="Hugo" title="Hugo" />
-    </td>
-    <td align="center" style="padding: 10px;">
-      <strong>Backend Development</strong><br>
-      <img src="https://skillicons.dev/icons?i=nodejs" width="24" height="24" alt="Node.js" title="Node.js" />&nbsp;
-      <img src="https://skillicons.dev/icons?i=php" width="24" height="24" alt="PHP" title="PHP" />&nbsp;
-      <img src="https://skillicons.dev/icons?i=mysql" width="24" height="24" alt="MySQL" title="MySQL" />&nbsp;
-      <img src="https://skillicons.dev/icons?i=mongodb" width="24" height="24" alt="MongoDB" title="MongoDB" />
-    </td>
-    <td align="center" style="padding: 10px;">
-      <strong>DevOps Tools</strong><br>
-      <img src="https://skillicons.dev/icons?i=git" width="24" height="24" alt="Git" title="Git" />&nbsp;
-      <img src="https://skillicons.dev/icons?i=netlify" width="24" height="24" alt="Netlify" title="Netlify" />&nbsp;
-      <img src="https://skillicons.dev/icons?i=vercel" width="24" height="24" alt="Vercel" title="Vercel" />
-    </td>
-    <td align="center" style="padding: 10px;">
-      <strong>Other Tools</strong><br>
-      <img src="https://skillicons.dev/icons?i=vscode" width="24" height="24" alt="Visual Studio Code" title="Visual Studio Code" />&nbsp;
-      <img src="https://skillicons.dev/icons?i=bash" width="24" height="24" alt="Bash" title="Bash" />&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="24" height="24" alt="NeoVim" title="NeoVim" />
-    </td>
-  </tr>
-</table>
+**Design Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=ai,ps,xd,ae,figma" />
 
+**Frontend Development**
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+
+**Backend Development**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,php,express,mysql,mongodb" />
+
+**DevOps Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=git,netlify,vercel,ubuntu,apache" />
+<br>
+![Caddy](https://img.shields.io/badge/Caddy-00ADD8?style=flat-square&logo=caddy&logoColor=white)
+
+**Automation & AI**
+<br>
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D4A27A?style=flat-square&logo=anthropic&logoColor=white)
+
+**Other Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=vscode,bash" />
+
+---
 
 - **Vanilla JS** : Pour une interaction fluide et une performance optimale.
 - **Hugo** : Utilisé pour des sites statiques rapides, sécurisés et faciles à maintenir.
@@ -86,5 +73,3 @@ Curieux et polyvalent, je suis toujours à la recherche de nouvelles aventures c
 ![Visiteurs](https://komarev.com/ghpvc/?username=alternative-rvb&style=for-the-badge&color=blue)
 
 </div>
-
-
